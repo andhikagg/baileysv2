@@ -1,5 +1,8 @@
 # Baileys - Typescript/Javascript WhatsApp Web API
 
+### Credits
+This baileys copy from [cifumo/Baileys](https://github.com/cifumo/Baileys) and edited from me [Andhikagg/baileys](https://github.com/AndhikaGG/baileysv2)
+
 ### Important Note
 
 This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
